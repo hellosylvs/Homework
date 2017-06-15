@@ -1,0 +1,30 @@
+body {background-color: grey;
+      font-family: cambria;
+
+}
+h1 {font-size: 80px;
+  color: pink;
+  text-decoration: underline;
+}
+
+.Intro {text-align: center;
+  color: white;
+
+
+}
+
+.Links {text-align: center;
+  color: pink;
+
+}
+
+
+img {width: 50%;
+  border-style: groove;
+  border-color: pink;
+  padding: 50px;
+  margin: 50px;
+
+
+
+}

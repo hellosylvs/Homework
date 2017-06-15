@@ -1,0 +1,85 @@
+header {
+  background-color: grey;
+  background-size: 100%;
+  padding: 5px 10px 125px 10px;
+  color: white;
+}
+
+.logo1 {
+  font-family: georgia;
+  padding-bottom: 25px;
+}
+
+.slogan {
+  text-align: center;
+  font-family: georgia;
+}
+
+button {
+  background: yellow;
+  padding: 15px 75px;
+  border-radius: 10%;
+  border-style: groove;
+  margin: 3%;
+}
+
+.benefits {
+  padding: 2% 60% 2% 10%;
+  color: navy;
+  font-size: 25px;
+  font-family: georgia;
+}
+
+p {
+  color: grey;
+  font-size: 20px
+}
+
+ul {
+  color: grey;
+  font-size: 22px;
+}
+
+.testimonial {
+  background: navy;
+  color: white;
+  font-family: calibri light;
+  font-size: 30px;
+  text-align: center;
+  padding: 50px 200px 20px;
+}
+
+h4 {
+  padding-bottom: 50px;
+  font-family: arial;
+}
+
+.sign-up {
+  text-align: center;
+  background: yellow;
+  font-family: georgia;
+  padding: 40px;
+  margin: 
+}
+footer {
+  text-align: center;
+  background: black;
+  color: yellow;
+  padding: 25px;
+  padding-bottom: 50px;
+ }
+  
+.logo2 {
+  font-family: georgia;
+  padding-bottom: 40px;
+}
+
+.social-media {
+  display: 
+}
+
+h6 {
+  color: white;
+  padding-top: 35px;
+  
+}
